@@ -17,3 +17,8 @@ This repository documents my 100 Days of Code journey.
 ### Day 1
 - Created GitHub repository
 - Started coding journey
+
+### Day 2
+- Learned array traversal
+- Practiced for loop with arrays
+- Added array_traversal.c
