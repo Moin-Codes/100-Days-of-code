@@ -22,3 +22,8 @@ This repository documents my 100 Days of Code journey.
 - Learned array traversal
 - Practiced for loop with arrays
 - Added array_traversal.c
+
+### Day 3
+- Learned how to find the largest element in an array
+- Practiced if conditions with loops
+- Added largest_element.c
