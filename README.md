@@ -27,3 +27,8 @@ This repository documents my 100 Days of Code journey.
 - Learned how to find the largest element in an array
 - Practiced if conditions with loops
 - Added largest_element.c
+
+### Day 4
+- Solved LeetCode Running Sum of 1D Array
+- Practiced array traversal and cumulative sum
+- Added running_sum.c
