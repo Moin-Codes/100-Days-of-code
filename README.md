@@ -32,3 +32,8 @@ This repository documents my 100 Days of Code journey.
 - Solved LeetCode Running Sum of 1D Array
 - Practiced array traversal and cumulative sum
 - Added running_sum.c
+
+### Day 5
+- Solved LeetCode Build Array from Permutation
+- Practiced array indexing
+- Added build_array.c
