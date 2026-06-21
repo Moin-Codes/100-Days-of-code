@@ -37,3 +37,8 @@ This repository documents my 100 Days of Code journey.
 - Solved LeetCode Build Array from Permutation
 - Practiced array indexing
 - Added build_array.c
+
+### Day 6
+- Solved LeetCode Contains Duplicate
+- Practiced nested loops and comparison
+- Added contains_duplicate.c
