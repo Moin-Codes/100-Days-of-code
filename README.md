@@ -47,3 +47,8 @@ This repository documents my 100 Days of Code journey.
 - Solved LeetCode Reverse String
 - Practiced two pointer technique
 - Added reverse_string.c
+
+### Day 8
+- Solved LeetCode Remove Duplicates from Sorted Array
+- Learned Two Pointer technique
+- Added remove_duplicates.c
