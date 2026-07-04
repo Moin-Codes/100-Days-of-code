@@ -52,3 +52,8 @@ This repository documents my 100 Days of Code journey.
 - Solved LeetCode Remove Duplicates from Sorted Array
 - Learned Two Pointer technique
 - Added remove_duplicates.c
+
+### Day 9
+- Solved LeetCode #1768 - Merge Strings Alternately
+- Learned string traversal using two pointers
+- Added merge_strings.c
