@@ -57,3 +57,9 @@ This repository documents my 100 Days of Code journey.
 - Solved LeetCode #1768 - Merge Strings Alternately
 - Learned string traversal using two pointers
 - Added merge_strings.c
+
+### Day 10
+- Solved LeetCode #242 - Valid Anagram
+- Learned frequency array (basic hashing)
+- Added valid_anagram.c
+
