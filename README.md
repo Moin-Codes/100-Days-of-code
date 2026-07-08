@@ -63,3 +63,7 @@ This repository documents my 100 Days of Code journey.
 - Learned frequency array (basic hashing)
 - Added valid_anagram.c
 
+### Day 11
+- Solved LeetCode #121 - Best Time to Buy and Sell Stock
+- Learned Greedy Algorithm
+- Added best_time_to_buy_sell_stock.c
