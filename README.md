@@ -67,3 +67,8 @@ This repository documents my 100 Days of Code journey.
 - Solved LeetCode #121 - Best Time to Buy and Sell Stock
 - Learned Greedy Algorithm
 - Added best_time_to_buy_sell_stock.c
+
+### Day 12
+- Solved LeetCode #125 - Valid Palindrome
+- Learned two pointers with string processing
+- Added valid_palindrome.c
