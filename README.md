@@ -72,3 +72,8 @@ This repository documents my 100 Days of Code journey.
 - Solved LeetCode #125 - Valid Palindrome
 - Learned two pointers with string processing
 - Added valid_palindrome.c
+
+### Day 13
+- Solved LeetCode #20 - Valid Parentheses
+- Learned Stack data structure
+- Added valid_parentheses.c
