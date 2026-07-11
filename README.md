@@ -77,3 +77,8 @@ This repository documents my 100 Days of Code journey.
 - Solved LeetCode #20 - Valid Parentheses
 - Learned Stack data structure
 - Added valid_parentheses.c
+
+### Day 14
+- Solved LeetCode #704 - Binary Search
+- Learned Divide and Conquer technique
+- Added binary_search.c
