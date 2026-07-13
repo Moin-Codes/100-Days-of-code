@@ -82,3 +82,8 @@ This repository documents my 100 Days of Code journey.
 - Solved LeetCode #704 - Binary Search
 - Learned Divide and Conquer technique
 - Added binary_search.c
+
+### Day 15
+- Solved LeetCode #283 - Move Zeroes
+- Learned Two Pointer Technique
+- Added move_zeroes.c
