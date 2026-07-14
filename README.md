@@ -87,3 +87,8 @@ This repository documents my 100 Days of Code journey.
 - Solved LeetCode #283 - Move Zeroes
 - Learned Two Pointer Technique
 - Added move_zeroes.c
+
+### Day 16
+- Solved LeetCode #169 - Majority Element
+- Learned Boyer-Moore Voting Algorithm
+- Added majority_element.c
