@@ -92,3 +92,8 @@ This repository documents my 100 Days of Code journey.
 - Solved LeetCode #169 - Majority Element
 - Learned Boyer-Moore Voting Algorithm
 - Added majority_element.c
+
+### Day 18
+- Solved LeetCode #66 - Plus One
+- Learned carry handling in arrays
+- Added plus_one.c
