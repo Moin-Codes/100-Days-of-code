@@ -97,3 +97,8 @@ This repository documents my 100 Days of Code journey.
 - Solved LeetCode #66 - Plus One
 - Learned carry handling in arrays
 - Added plus_one.c
+
+### Day 19
+- Solved LeetCode #118 - Pascal's Triangle
+- Learned 2D arrays and nested loops
+- Added pascals_triangle.c
