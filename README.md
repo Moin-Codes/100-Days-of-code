@@ -102,3 +102,8 @@ This repository documents my 100 Days of Code journey.
 - Solved LeetCode #118 - Pascal's Triangle
 - Learned 2D arrays and nested loops
 - Added pascals_triangle.c
+
+### Day 20
+- Solved LeetCode #136 - Single Number
+- Learned XOR operation
+- Added single_number.c
